@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 body{background-color: pink;}
+=======
+body{
+    background-color: pink;
+    text-align: center;
+    margin: 0;
+}
+h1{
+    font-size: 4rem;
+}
+>>>>>>> styling
